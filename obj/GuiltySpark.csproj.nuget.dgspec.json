@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Justin\\Source\\HaloShipNameGenerator\\GuiltySpark\\GuiltySpark.csproj": {}
+    "C:\\Code\\HaloShipNameGenerator\\GuiltySpark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Justin\\Source\\HaloShipNameGenerator\\GuiltySpark\\GuiltySpark.csproj": {
+    "C:\\Code\\HaloShipNameGenerator\\GuiltySpark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Justin\\Source\\HaloShipNameGenerator\\GuiltySpark\\GuiltySpark.csproj",
+        "projectUniqueName": "C:\\Code\\HaloShipNameGenerator\\GuiltySpark.csproj",
         "projectName": "GuiltySpark",
-        "projectPath": "C:\\Users\\Justin\\Source\\HaloShipNameGenerator\\GuiltySpark\\GuiltySpark.csproj",
-        "packagesPath": "C:\\Users\\Justin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Justin\\Source\\HaloShipNameGenerator\\GuiltySpark\\obj\\",
+        "projectPath": "C:\\Code\\HaloShipNameGenerator\\GuiltySpark.csproj",
+        "packagesPath": "C:\\Users\\nicholas\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\HaloShipNameGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Justin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nicholas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
