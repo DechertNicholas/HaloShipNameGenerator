@@ -56,3 +56,4 @@ C:\Users\Justin\Source\HaloShipNameGenerator\GuiltySpark\obj\Debug\net5.0\ref\Gu
 C:\Users\Justin\Source\HaloShipNameGenerator\GuiltySpark\obj\Debug\net5.0\GuiltySpark.pdb
 C:\Users\Justin\Source\HaloShipNameGenerator\GuiltySpark\obj\Debug\net5.0\GuiltySpark.genruntimeconfig.cache
 C:\Users\Justin\Source\HaloShipNameGenerator\GuiltySpark\obj\Debug\net5.0\GuiltySpark.csproj.CopyComplete
+C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\obj\Debug\net5.0\GuiltySpark.pdb
