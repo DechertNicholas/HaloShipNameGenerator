@@ -1,0 +1,5 @@
+﻿noun preposition noun
+adjective noun
+noun "and" noun
+noun "'s" noun (possesive)
+noun "'s" adjective noun (possesive)
