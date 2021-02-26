@@ -114,3 +114,5 @@ C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\obj\Debug\net5.0\GuiltySpark.dll
 C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\obj\Debug\net5.0\ref\GuiltySpark.dll
 C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\obj\Debug\net5.0\GuiltySpark.genruntimeconfig.cache
 C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\obj\Debug\net5.0\GuiltySpark.csproj.CopyComplete
+C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\obj\Debug\net5.0\RazorDeclaration\Pages\Generator.razor.g.cs
+C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\obj\Debug\net5.0\Razor\Pages\Generator.razor.g.cs

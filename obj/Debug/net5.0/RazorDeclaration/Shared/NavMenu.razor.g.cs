@@ -90,7 +90,7 @@ using GuiltySpark.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\Shared\NavMenu.razor"
+#line 33 "C:\Users\ashle\OneDrive\Code Stuff\guilty-spark\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
